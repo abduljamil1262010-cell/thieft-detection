@@ -1,0 +1,13 @@
+libgl1-mesa-glx
+libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
+libgomp1
+cmake
+libboost-all-dev
+libx11-6
+build-essential
+libx11-6
+libx11-dev
+libxrender1
